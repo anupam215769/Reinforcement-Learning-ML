@@ -65,6 +65,9 @@ So now, instead of the amount of charge varying per socket, the probability of a
 
 ### [Association Rule Learning](https://github.com/anupam215769/Association-Rule-Learning-ML)
 
+
+## Credit
+
 **Coded By**
 
 [Anupam Verma](https://github.com/anupam215769)
